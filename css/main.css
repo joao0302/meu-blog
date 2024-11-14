@@ -1,0 +1,137 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Lexend:wght@100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anton+SC&family=Lexend:wght@100..900&family=Noto+Sans+Ethiopic:wght@100..900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
+
+
+
+/* Cabeçalho */
+.header {
+    background-color: #000000;
+    color: #fff;
+    padding: 30px 0; /* Mantido o padding para aumentar a altura */
+    width: 100%; /* Garantindo que o cabeçalho ocupe toda a largura da tela */
+    position: relative;
+    left: 0;
+    top: 0;
+    text-align: center; /* Centraliza o conteúdo dentro do cabeçalho */
+    box-sizing: border-box; /* Evita que o padding adicione largura extra */
+}
+
+
+
+/* Logo */
+.logo {
+    font-size: 30px; /* Aumentado o tamanho da fonte */
+    font-weight: bold;
+    color: #fff;
+    text-decoration: none;
+    font-family: "Lexend", sans-serif;
+}
+
+
+/* Estilo da seção de conteúdo */
+.content {
+    text-align: center; /* Centraliza o conteúdo */
+    padding: 40px 20px;
+}
+
+/* Estilo do título */
+.title {
+    font-size: 36px; /* Tamanho grande para o título */
+    font-weight: bold;
+    color: #333; /* Cor escura para o título */
+    margin-bottom: 20px; /* Espaço abaixo do título */
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+/* Estilo do parágrafo */
+.description {
+    font-size: 18px; /* Tamanho médio para o texto */
+    color: #666; /* Cor mais suave para o texto */
+    line-height: 1.6; /* Aumenta o espaçamento entre as linhas */
+    max-width: 800px; /* Limita a largura máxima do parágrafo */
+    margin: 0 auto; /* Centraliza o parágrafo */
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+}
+
+/* Estilo da imagem */
+.image {
+    max-width: 700px; /* Limita a largura máxima da imagem */
+    height: auto; /* Mantém a proporção da imagem */
+    margin-top: 20px; /* Espaço acima da imagem */
+    border-radius: 4px; /* Bordas arredondadas (opcional) */
+
+}
+
+.content2 {
+    font-size: 18px; /* Tamanho médio para o texto */
+    color: #666; /* Cor mais suave para o texto */
+    line-height: 1.6; /* Aumenta o espaçamento entre as linhas */
+    text-align: justify; /* Alinha o texto de forma justificada */
+    margin: 0 auto; /* Centraliza o parágrafo */
+    margin-top: 10px; /* Espaço acima da imagem */
+
+}
+
+/* Estilo geral da seção de tópicos */
+.topics {
+    padding: 20px;
+    max-width: 800px;
+    margin: 0 auto; /* Centraliza o conteúdo na página */
+}
+
+/* Estilo dos títulos dos tópicos */
+.topic-title {
+    font-size: 28px;
+    font-weight: bold;
+    color: #333; /* Cor escura para o título */
+    margin-bottom: 10px; /* Espaço abaixo do título */
+    font-family: "Roboto", serif;
+    font-weight: 500;
+    font-style: normal;
+}
+
+/* Estilo do parágrafo dos tópicos */
+.topic-description {
+    font-size: 18px;
+    color: #666; /* Cor mais suave para o texto */
+    line-height: 1.6; /* Aumenta o espaçamento entre as linhas */
+    margin-bottom: 25px; /* Espaço entre os tópicos */
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+}
+
+/* Estilo do contêiner de cada tópico */
+.topic {
+    margin-bottom: 30px; /* Espaço entre os tópicos */
+    padding: 10px;
+    border-bottom: 1px solid #ddd; /* Linha divisória entre os tópicos */
+}
+
+/* Estilo dos títulos dos tópicos */
+.topic-title2 {
+    font-size: 21px;
+    font-weight: bold;
+    color: #333; /* Cor escura para o título */
+    margin-bottom: 10px; /* Espaço abaixo do título */
+    font-family: "Roboto", serif;
+    font-weight: 500;
+    font-style: normal;
+}
+
+strong{
+    font-size: 18px;
+    color: #333; /* Cor mais suave para o texto */
+}
+
+
+
+
+
+
+
